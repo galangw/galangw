@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Galang Wijaya</h1>
 <h3 align="center">👀👀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galangw&label=Profile%20views&color=0e75b6&style=flat" alt="galangw" /> </p>
+
 - 🔭 I’m currently working on [maritopup.com](maritopup.com)
 
 - 🌱 I’m currently learning **JS, PHP, DevOPS And System Administrator**
